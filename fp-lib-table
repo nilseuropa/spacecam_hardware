@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name spacecam)(type KiCad)(uri "$(KIPRJMOD)/spacecam.pretty")(options "")(descr ""))
+)
